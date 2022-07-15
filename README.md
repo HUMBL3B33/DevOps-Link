@@ -28,6 +28,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 --- 
 
-Initially created by [Sanjeev Malik](https://github.com/HUMBL3B33) on [Twitter](https://twitter.com/knowsanju).
+Created and Maintaned by [Sanjeev Malik](https://github.com/HUMBL3B33) find on [Twitter](https://twitter.com/knowsanju).
 
 ---
