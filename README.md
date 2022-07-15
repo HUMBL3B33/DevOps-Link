@@ -24,6 +24,9 @@ Initially created by [Sanjeev Malik](https://github.com/HUMBL3B33) on [Twitter](
 
 ---
 
-## Link List
+### List of All the Link Files
 
-### [Video Links](Video-Links.md)
+### [Video Links](/Video-Links.md)
+### [Project Links](/Project-Links.md)
+### [Social Media Links](/Social-Media-Links.md)
+### [Website Links](/Website-Links.md)
