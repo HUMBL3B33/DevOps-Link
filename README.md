@@ -18,11 +18,6 @@ If you like this repo, be sure to ⭐ it.
 
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new Links.
 
---- 
-
-Initially created by [Sanjeev Malik](https://github.com/HUMBL3B33) on [Twitter](https://twitter.com/knowsanju).
-
----
 
 # List of All the Link Files
 
@@ -30,3 +25,9 @@ Initially created by [Sanjeev Malik](https://github.com/HUMBL3B33) on [Twitter](
 ### [Project Links](/Project-Links.md)
 ### [Social Media Links](/Social-Media-Links.md)
 ### [Website Links](/Website-Links.md)
+
+--- 
+
+Initially created by [Sanjeev Malik](https://github.com/HUMBL3B33) on [Twitter](https://twitter.com/knowsanju).
+
+---
