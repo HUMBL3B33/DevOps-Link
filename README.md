@@ -26,16 +26,4 @@ Initially created by [Sanjeev Malik](https://github.com/HUMBL3B33) on [Twitter](
 
 ## Link List
 
-### A
-
-* [AWS Certified Cloud Practitioner Certification Course (CLF-C01)](https://www.youtube.com/watch?v=SOTamWNgDKc&ab_channel=freeCodeCamp.org) 
-<!---
-* [Ansible for DevOps](/none%202.pdf)
-* [Ansible Playbook Creds Practices](/Ansible-playbook-creds.pdf)
-* [Api Driven DevOps](/Api-driven-devops.pdf) 
-* [Application Lifecycle on AWS](/Application%20Lifecycle%20on%20AWS.pdf) 
-* [AWS CLI Ebook](/Aws-cli%20ebook.pdf) 
-* [Azure DevOps](/Azure%20DevOps.pdf) 
-* [Azure Fundamentals](/Azure%20Fundamentals.pdf) 
--->
-### B
+### [Video Links](Video-Links.md)
